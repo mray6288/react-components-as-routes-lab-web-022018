@@ -56,3 +56,11 @@ module.exports = {
   actors,
   directors
 }
+
+
+// let data = {
+//   movies,
+//   actors,
+//   directors
+// }
+// export default data
